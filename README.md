@@ -1,3 +1,3 @@
-#Stock Market tracker
+# Stock Market tracker
 
-screenshot.png
+![](ScreenShot.png)
